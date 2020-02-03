@@ -1,7 +1,5 @@
 package AceptaElReto;
 
-package aceptaelreto;
-
 import java.util.HashSet;
 
 public class e416michel {
